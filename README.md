@@ -25,7 +25,6 @@
 ![image](https://github.com/user-attachments/assets/f0e55c9f-5bcd-40b1-b2ae-e4d07322b3b2)
 ![image](https://github.com/user-attachments/assets/416a92c8-7a2b-456d-8579-8d43be71ed3b)
 
-
 ### Desafio 03 - UX (User Experience)
 
 **Objetivo:**
