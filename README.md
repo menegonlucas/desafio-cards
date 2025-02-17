@@ -35,3 +35,6 @@
      - Um botão para exibir os produtos em formato de **cards**.
      - Outro botão para exibir os produtos em formato de **lista**.
    - Os botões devem alternar entre as visualizações dinamicamente ao serem clicados, sem precisar recarregar a página.
+
+![image](https://github.com/user-attachments/assets/f81ed9af-1a77-45b3-9d84-6f10457aebc6)
+![image](https://github.com/user-attachments/assets/b330aa4e-0f1d-41b6-a729-96e78cd7d2dd)
