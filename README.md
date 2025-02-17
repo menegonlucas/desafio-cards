@@ -26,3 +26,13 @@
 ![image](https://github.com/user-attachments/assets/416a92c8-7a2b-456d-8579-8d43be71ed3b)
 
 
+### Desafio 03 - UX (User Experience)
+
+**Objetivo:**
+
+1. **Melhoria na Experiência do Usuário:**
+   - Crie uma nova página HTML chamada `index.html`.
+   - Adicione dois botões no cabeçalho:
+     - Um botão para exibir os produtos em formato de **cards**.
+     - Outro botão para exibir os produtos em formato de **lista**.
+   - Os botões devem alternar entre as visualizações dinamicamente ao serem clicados, sem precisar recarregar a página.
