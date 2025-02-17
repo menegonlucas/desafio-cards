@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Tênis Superstar Made In Germany JJJJound",
+        "preco": "R$ 1.499,99",
+        "imagem": "tenis1.jpeg"
+    },
+    {
+        "nome": "Tênis CP Manchester SPZL",
+        "preco": "R$ 799,99",
+        "imagem": "tenis2.jpeg"
+    },
+    {
+        "nome": "Tênis Rivalry Low Consortium",
+        "preco": "R$ 699,99",
+        "imagem": "tenis3.jpeg"
+    },
+    {
+        "nome": "Tênis Humanrace Samba Pharrell Williams",
+        "preco": "R$ 899,99",
+        "imagem": "tenis4.jpeg"
+    },
+    {
+        "nome": "Tênis Samba Humanrace",
+        "preco": "R$ 899,99",
+        "imagem": "tenis5.jpeg"
+    },
+    {
+        "nome": "FORUM BOLD STRIPES W",
+        "preco": "R$ 799,99",
+        "imagem": "tenis6.jpeg"
+    }
+]
