@@ -20,9 +20,9 @@
    - Crie uma página HTML que exiba os produtos contidos no arquivo `produtos.json` em formato de lista.
    - A lista deve exibir, no mínimo, o nome e o preço do produto. Não é necessário incluir todas as informações do arquivo JSON.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3744310e-3f5f-423a-9f58-9e4300a73210" width="200">
-  <img src="https://github.com/user-attachments/assets/732c27f5-59d3-4d7c-9aa7-d5714aec587e" width="200">
-  <img src="https://github.com/user-attachments/assets/84c2093a-64ba-4525-9ed1-8ebfacddef6b" width="200">
-  <img src="https://github.com/user-attachments/assets/71c1b338-188f-4055-94ac-c0640caa62e8" width="200">
-</p>
+![image](https://github.com/user-attachments/assets/b1cdb478-6289-48c7-b91d-a09cd615251a)
+![image](https://github.com/user-attachments/assets/f9cac20c-a736-4834-8fda-653435952d7a)
+![image](https://github.com/user-attachments/assets/f0e55c9f-5bcd-40b1-b2ae-e4d07322b3b2)
+![image](https://github.com/user-attachments/assets/416a92c8-7a2b-456d-8579-8d43be71ed3b)
+
+
