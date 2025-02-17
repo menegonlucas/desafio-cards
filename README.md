@@ -11,3 +11,12 @@
      - Em telas menores, os cards devem ser exibidos em uma única coluna.
      - Em telas maiores, a página deve acomodar até 4 colunas de cards.
    - Para testar a responsividade, adicione mais produtos ao arquivo `produtos.json`, garantindo que o layout continue funcionando corretamente em diferentes tamanhos de tela.
+  
+### Desafio 02 - Lista
+
+**Objetivo:**
+
+1. **Renderização de Lista:**
+   - Crie uma página HTML que exiba os produtos contidos no arquivo `produtos.json` em formato de lista.
+   - A lista deve exibir, no mínimo, o nome e o preço do produto. Não é necessário incluir todas as informações do arquivo JSON.
+
